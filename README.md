@@ -3,6 +3,8 @@
 ### Primera sesión
 - [Notebook: Primeros pasos en Python](https://colab.research.google.com/drive/1nubOq-8hvgAfCap9T1DLsNS8NcGIXelm?usp=sharing)
 ### Segunda sesión
+- [Dataset: GDP by Country 1999-2022](https://github.com/jmoralesigras/curso-python-avps/files/9969673/GDP.by.Country.1999-2022.csv)
+
 ### Tercera sesión
 ### Cuarta sesión
 ### Contacto
