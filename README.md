@@ -8,6 +8,7 @@
 - [Dataset: GDP by Country 1999-2022](https://github.com/jmoralesigras/curso-python-avps/files/9969673/GDP.by.Country.1999-2022.csv)
 ### Tercera sesión
 - [API: Universidades del mundo](https://github.com/Hipo/university-domains-list)
+- [Notekook: Conociendo Plotly](https://colab.research.google.com/drive/163wsDnwaWahTL-OOp3WKktfRl8f8STxA?usp=sharing)
 ### Cuarta sesión
 ### Contacto
 - info@jordimorales.com
