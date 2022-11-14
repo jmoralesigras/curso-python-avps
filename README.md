@@ -7,6 +7,7 @@
 - [Notebook: Conociendo Pandas](https://colab.research.google.com/drive/1PMYRFM5HHKN_m0rTfZeyCW88gbzi1znF?usp=sharing)
 - [Dataset: GDP by Country 1999-2022](https://github.com/jmoralesigras/curso-python-avps/files/9969673/GDP.by.Country.1999-2022.csv)
 ### Tercera sesión
+- [transposición.csv](https://github.com/jmoralesigras/curso-python-avps/files/10004571/transposicion.csv)
 - [API: Universidades del mundo](https://github.com/Hipo/university-domains-list)
 - [Códigos ISO (Wikipedia)](https://github.com/jmoralesigras/curso-python-avps/files/10002447/wikipedia-iso-country-codes.csv)
 - [Notebook: Conociendo Matplotlib y Seaborn](https://colab.research.google.com/drive/1BVtToDt5ZTfuOBzG0SHG7Hax4vI8IA5a?usp=sharing)
